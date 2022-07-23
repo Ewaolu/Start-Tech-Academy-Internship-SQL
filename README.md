@@ -1,5 +1,6 @@
 # Start-Tech-Academy-Internship-SQL.
-As an intern, i am to Write queries in SQL for the following tasks:
+As an intern, i am to Write queries in SQL for the following tasks using the the dataset attached [IPL_matches.csv](https://github.com/Ewaolu/Start-Tech-Academy-Internship-SQL/files/9174098/IPL_matches.csv) [IPL_Ball.csv](https://github.com/Ewaolu/Start-Tech-Academy-Internship-SQL/files/9174097/IPL_Ball.csv)
+:
 
 1. Create a table named ‘matches’ with appropriate data types for columns
 
