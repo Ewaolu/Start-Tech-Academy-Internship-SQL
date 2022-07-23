@@ -1,0 +1,21 @@
+id,inning,over,ball,batsman,non_striker,bowler,batsman_runs,extra_runs,total_runs,is_wicket,dismissal_kind,player_dismissed,fielder,extras_type,batting_team,bowling_team
+980905,2,0,1,AJ Finch,BB McCullum,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,0,2,AJ Finch,BB McCullum,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,0,3,AJ Finch,BB McCullum,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,0,5,BB McCullum,AJ Finch,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,0,6,BB McCullum,AJ Finch,Sandeep Sharma,0,0,0,1,stumped,BB McCullum,WP Saha,NA,Gujarat Lions,Kings XI Punjab
+980905,2,1,1,AJ Finch,SK Raina,MG Johnson,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,1,4,AJ Finch,SK Raina,MG Johnson,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,2,1,AJ Finch,SK Raina,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,2,3,SK Raina,AJ Finch,Sandeep Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,3,4,SK Raina,AJ Finch,MM Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,3,5,SK Raina,AJ Finch,MM Sharma,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,4,1,AJ Finch,SK Raina,MG Johnson,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,4,4,SK Raina,AJ Finch,MG Johnson,0,1,1,0,NA,NA,NA,wides,Gujarat Lions,Kings XI Punjab
+980905,2,4,5,SK Raina,AJ Finch,MG Johnson,0,1,1,0,NA,NA,NA,wides,Gujarat Lions,Kings XI Punjab
+980905,2,4,7,AJ Finch,SK Raina,MG Johnson,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,5,3,SK Raina,AJ Finch,MP Stoinis,0,0,0,1,caught,SK Raina,MG Johnson,NA,Gujarat Lions,Kings XI Punjab
+980905,2,5,4,AJ Finch,KD Karthik,MP Stoinis,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,6,1,AJ Finch,KD Karthik,AR Patel,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,8,2,KD Karthik,AJ Finch,AR Patel,0,0,0,0,NA,NA,NA,NA,Gujarat Lions,Kings XI Punjab
+980905,2,8,6,AJ Finch,KD Karthik,AR Patel,0,1,1,0,NA,NA,NA,wides,Gujarat Lions,Kings XI Punjab
